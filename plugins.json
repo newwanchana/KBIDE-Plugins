@@ -1,0 +1,155 @@
+[
+  {
+    "name": "PB Smart Farm",
+    "version": "1.0.0",
+    "title": "Smart Farm Controller",
+    "description": "Plugin Smart Farm",
+    "author": "adafruit | Block by PrinceBot",
+    "components": [],
+    "download_url": "https://woottinan.github.io/kbide-board-repo/plugins/PB Smart Farm/PB Smart Farm.zip",
+    "type": "plugin",
+    "status": "published",
+    "image": "https://woottinan.github.io/kbide-board-repo/plugins/PB Smart Farm/PB Smart Farm.png",
+    "git": "#"
+  },
+
+  {
+    "name": "BlynkV2",
+    "version": "1.0.0",
+    "title": "BlynkV2",
+    "description": "Plugin BlynkV2",
+    "author": "Volodymyr Shymanskyy |block by PrinceBot",
+    "components": [],
+    "download_url": "https://woottinan.github.io/kbide-board-repo/plugins/BlynkV2/BlynkV2.zip",
+    "type": "plugin",
+    "status": "published",
+    "image": "https://woottinan.github.io/kbide-board-repo/plugins/BlynkV2/BlynkV2.png",
+    "git": "#"
+  },
+
+  {
+    "name": "KB_Exten",
+    "version": "1.1.0",
+    "title": "KB_Exten",
+    "description": "Plugin KB_Exten",
+    "author": "PrinceBot",
+    "components": [],
+    "download_url": "https://woottinan.github.io/kbide-board-repo/plugins/KB_Exten/KB_Exten.zip",
+    "type": "plugin",
+    "status": "published",
+    "image": "https://woottinan.github.io/kbide-board-repo/plugins/KB_Exten/KB_Exten.png",
+    "git": "#"
+  },
+
+    {
+    "name": "KB_ExtenV2",
+    "version": "1.0.0",
+    "title": "KB_ExtenV2",
+    "description": "Plugin KB_ExtenV2",
+    "author": "PrinceBot",
+    "components": [],
+    "download_url": "https://woottinan.github.io/kbide-board-repo/plugins/KB_ExtenV2/KB_ExtenV2.zip",
+    "type": "plugin",
+    "status": "published",
+    "image": "https://woottinan.github.io/kbide-board-repo/plugins/KB_ExtenV2/KB_ExtenV2.png",
+    "git": "#"
+  },
+
+  {
+    "name": "kbide-EEPROM",
+    "version": "1.0.0",
+    "title": "kbide-EEPROM",
+    "description": "Plugin kbide-EEPROM",
+    "author": "PrinceBot",
+    "components": [],
+    "download_url": "https://woottinan.github.io/kbide-board-repo/plugins/kbide-EEPROM/kbide-EEPROM.zip",
+    "type": "plugin",
+    "status": "published",
+    "image": "https://woottinan.github.io/kbide-board-repo/plugins/kbide-EEPROM/kbide-EEPROM.png",
+    "git": "#"
+  },
+
+  {
+    "name": "MLBlockSerial",
+    "version": "1.0.0",
+    "title": "MLBlockSerial",
+    "description": "Plugin MLBlockSerial",
+    "author": "Comdet Phueadphut",
+    "components": [],
+    "download_url": "https://woottinan.github.io/kbide-board-repo/plugins/MLBlockSerial/MLBlockSerial.zip",
+    "type": "plugin",
+    "status": "published",
+    "image": "https://woottinan.github.io/kbide-board-repo/plugins/MLBlockSerial/MLBlockSerial.png",
+    "git": "#"
+  },
+
+  {
+    "name": "MPU6050",
+    "version": "1.0.0",
+    "title": "MPU6050",
+    "description": "Plugin MPU6050",
+    "author": "tockn | block by Comdet",
+    "components": [],
+    "download_url": "https://woottinan.github.io/kbide-board-repo/plugins/MPU6050/MPU6050.zip",
+    "type": "plugin",
+    "status": "published",
+    "image": "https://woottinan.github.io/kbide-board-repo/plugins/MPU6050/MPU6050.png",
+    "git": "#"
+  },
+
+  {
+    "name": "Neopixel",
+    "version": "1.0.0",
+    "title": "Neopixel",
+    "description": "Plugin Neopixel",
+    "author": "original by Adafruit | migrate by bavensky",
+    "components": [],
+    "download_url": "https://woottinan.github.io/kbide-board-repo/plugins/Neopixel/Neopixel.zip",
+    "type": "plugin",
+    "status": "published",
+    "image": "https://woottinan.github.io/kbide-board-repo/plugins/Neopixel/Neopixel.png",
+    "git": "#"
+  },
+
+  {
+    "name": "NETPIE",
+    "version": "1.0.0",
+    "title": "NETPIE",
+    "description": "Plugin NETPIE",
+    "author": "NETPIE | block by Sonthaya Nongnuch",
+    "components": [],
+    "download_url": "https://woottinan.github.io/kbide-board-repo/plugins/NETPIE/NETPIE.zip",
+    "type": "plugin",
+    "status": "published",
+    "image": "https://woottinan.github.io/kbide-board-repo/plugins/NETPIE/NETPIE.png",
+    "git": "#"
+  },
+
+  {
+    "name": "Pulsein",
+    "version": "0.0.1",
+    "title": "Pulsein",
+    "description": "Plugin KPulsein",
+    "author": "block",
+    "components": [],
+    "download_url": "https://woottinan.github.io/kbide-board-repo/plugins/Pulsein/Pulsein.zip",
+    "type": "plugin",
+    "status": "published",
+    "image": "https://woottinan.github.io/kbide-board-repo/plugins/Pulsein/Pulsein.png",
+    "git": "#"
+  },
+
+  {
+    "name": "KB-Robot",
+    "version": "1.0.5",
+    "title": "KB-Robot",
+    "description": "Plugin KB-Robot",
+    "author": "PrinceBot",
+    "components": [],
+    "download_url": "https://woottinan.github.io/kbide-board-repo/plugins/KB-Robot/KB-Robot.zip",
+    "type": "plugin",
+    "status": "published",
+    "image": "https://woottinan.github.io/kbide-board-repo/plugins/KB-Robot/KB-Robot.png",
+    "git": "#"
+  }
+]

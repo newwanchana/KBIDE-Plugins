@@ -6,10 +6,10 @@
     "description": "Plugin Smart Farm",
     "author": "adafruit | Block by PrinceBot",
     "components": [],
-    "download_url": "https://newwanchana.github.io/KBIDE-Plugins/PB Smart Farm/PB Smart Farm.zip",
+    "download_url": "https://newwanchana.github.io/KBIDE-Plugins/plugins/PB Smart Farm/PB Smart Farm.zip",
     "type": "plugin",
     "status": "published",
-    "image": "https://newwanchana.github.io/KBIDE-Plugins/PB Smart Farm/PB Smart Farm.png",
+    "image": "https://newwanchana.github.io/KBIDE-Plugins/plugins/PB Smart Farm/PB Smart Farm.png",
     "git": "#"
   },
 
@@ -20,10 +20,10 @@
     "description": "Plugin BlynkV2222",
     "author": "Volodymyr Shymanskyy |block by PrinceBot",
     "components": [],
-    "download_url": "https://newwanchana.github.io/KBIDE-Plugins/BlynkV2/BlynkV2.zip",
+    "download_url": "https://newwanchana.github.io/KBIDE-Plugins/plugins/BlynkV2/BlynkV2.zip",
     "type": "plugin",
     "status": "published",
-    "image": "https://newwanchana.github.io/KBIDE-Plugins/BlynkV2/BlynkV2.png",
+    "image": "https://newwanchana.github.io/KBIDE-Plugins/plugins/BlynkV2/BlynkV2.png",
     "git": "#"
   },
 
@@ -34,10 +34,10 @@
     "description": "Plugin KB_Exten",
     "author": "PrinceBot",
     "components": [],
-    "download_url": "https://newwanchana.github.io/KBIDE-Plugins/KB_Exten/KB_Exten.zip",
+    "download_url": "https://newwanchana.github.io/KBIDE-Plugins/plugins/KB_Exten/KB_Exten.zip",
     "type": "plugin",
     "status": "published",
-    "image": "https://newwanchana.github.io/KBIDE-Plugins/KB_Exten/KB_Exten.png",
+    "image": "https://newwanchana.github.io/KBIDE-Plugins/plugins/KB_Exten/KB_Exten.png",
     "git": "#"
   },
 
@@ -48,10 +48,10 @@
     "description": "Plugin KB_ExtenV2",
     "author": "PrinceBot",
     "components": [],
-    "download_url": "https://newwanchana.github.io/KBIDE-Plugins/KB_ExtenV2/KB_ExtenV2.zip",
+    "download_url": "https://newwanchana.github.io/KBIDE-Plugins/plugins/KB_ExtenV2/KB_ExtenV2.zip",
     "type": "plugin",
     "status": "published",
-    "image": "https://newwanchana.github.io/KBIDE-Plugins/KB_ExtenV2/KB_ExtenV2.png",
+    "image": "https://newwanchana.github.io/KBIDE-Plugins/plugins/KB_ExtenV2/KB_ExtenV2.png",
     "git": "#"
   },
 
@@ -62,10 +62,10 @@
     "description": "Plugin kbide-EEPROM",
     "author": "PrinceBot",
     "components": [],
-    "download_url": "https://newwanchana.github.io/KBIDE-Plugins/kbide-EEPROM/kbide-EEPROM.zip",
+    "download_url": "https://newwanchana.github.io/KBIDE-Plugins/plugins/kbide-EEPROM/kbide-EEPROM.zip",
     "type": "plugin",
     "status": "published",
-    "image": "https://newwanchana.github.io/KBIDE-Plugins/kbide-EEPROM/kbide-EEPROM.png",
+    "image": "https://newwanchana.github.io/KBIDE-Plugins/plugins/kbide-EEPROM/kbide-EEPROM.png",
     "git": "#"
   },
 
@@ -76,10 +76,10 @@
     "description": "Plugin MLBlockSerial",
     "author": "Comdet Phueadphut",
     "components": [],
-    "download_url": "https://newwanchana.github.io/KBIDE-Plugins/MLBlockSerial/MLBlockSerial.zip",
+    "download_url": "https://newwanchana.github.io/KBIDE-Plugins/plugins/MLBlockSerial/MLBlockSerial.zip",
     "type": "plugin",
     "status": "published",
-    "image": "https://newwanchana.github.io/KBIDE-Plugins/MLBlockSerial/MLBlockSerial.png",
+    "image": "https://newwanchana.github.io/KBIDE-Plugins/plugins/MLBlockSerial/MLBlockSerial.png",
     "git": "#"
   },
 
@@ -90,10 +90,10 @@
     "description": "Plugin MPU6050",
     "author": "tockn | block by Comdet",
     "components": [],
-    "download_url": "https://newwanchana.github.io/KBIDE-Plugins/MPU6050/MPU6050.zip",
+    "download_url": "https://newwanchana.github.io/KBIDE-Plugins/plugins/MPU6050/MPU6050.zip",
     "type": "plugin",
     "status": "published",
-    "image": "https://newwanchana.github.io/KBIDE-Plugins/MPU6050/MPU6050.png",
+    "image": "https://newwanchana.github.io/KBIDE-Plugins/plugins/MPU6050/MPU6050.png",
     "git": "#"
   },
 
@@ -104,10 +104,10 @@
     "description": "Plugin Neopixel",
     "author": "original by Adafruit | migrate by bavensky",
     "components": [],
-    "download_url": "https://newwanchana.github.io/KBIDE-Plugins/Neopixel/Neopixel.zip",
+    "download_url": "https://newwanchana.github.io/KBIDE-Plugins/plugins/Neopixel/Neopixel.zip",
     "type": "plugin",
     "status": "published",
-    "image": "https://newwanchana.github.io/KBIDE-Plugins/Neopixel/Neopixel.png",
+    "image": "https://newwanchana.github.io/KBIDE-Plugins/plugins/Neopixel/Neopixel.png",
     "git": "#"
   },
 
@@ -118,10 +118,10 @@
     "description": "Plugin NETPIE",
     "author": "NETPIE | block by Sonthaya Nongnuch",
     "components": [],
-    "download_url": "https://newwanchana.github.io/KBIDE-Plugins/NETPIE/NETPIE.zip",
+    "download_url": "https://newwanchana.github.io/KBIDE-Plugins/plugins/NETPIE/NETPIE.zip",
     "type": "plugin",
     "status": "published",
-    "image": "https://newwanchana.github.io/KBIDE-Plugins/NETPIE/NETPIE.png",
+    "image": "https://newwanchana.github.io/KBIDE-Plugins/plugins/NETPIE/NETPIE.png",
     "git": "#"
   },
 
@@ -132,10 +132,10 @@
     "description": "Plugin KPulsein",
     "author": "block",
     "components": [],
-    "download_url": "https://newwanchana.github.io/KBIDE-Plugins/Pulsein/Pulsein.zip",
+    "download_url": "https://newwanchana.github.io/KBIDE-Plugins/plugins/Pulsein/Pulsein.zip",
     "type": "plugin",
     "status": "published",
-    "image": "https://newwanchana.github.io/KBIDE-Plugins/Pulsein/Pulsein.png",
+    "image": "https://newwanchana.github.io/KBIDE-Plugins/plugins/Pulsein/Pulsein.png",
     "git": "#"
   },
 
@@ -146,10 +146,10 @@
     "description": "Plugin KB-Robot",
     "author": "PrinceBot",
     "components": [],
-    "download_url": "https://newwanchana.github.io/KBIDE-Plugins/KB-Robot/KB-Robot.zip",
+    "download_url": "https://newwanchana.github.io/KBIDE-Plugins/plugins/KB-Robot/KB-Robot.zip",
     "type": "plugin",
     "status": "published",
-    "image": "https://newwanchana.github.io/KBIDE-Plugins/KB-Robot/KB-Robot.png",
+    "image": "https://newwanchana.github.io/KBIDE-Plugins/plugins/KB-Robot/KB-Robot.png",
     "git": "#"
   }
 ]

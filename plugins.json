@@ -13,7 +13,7 @@
     "image": "https://newwanchana.github.io/KBIDE-Plugins/plugins/PB Smart Farm/PB Smart Farm.png",
     "git": "#"
   },
-
+*/
   {
     "name": "BlynkV2",
     "version": "1.0.0",
@@ -153,5 +153,5 @@
     "image": "https://newwanchana.github.io/KBIDE-Plugins/plugins/KB-Robot/KB-Robot.png",
     "git": "#"
   }
-  */
+  
 ]
